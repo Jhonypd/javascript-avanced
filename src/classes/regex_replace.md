@@ -1,0 +1,5 @@
+Regex (expressão regular) em JavaScript é uma sequência de caracteres que define um padrão de pesquisa em uma string. Ela é usada para realizar operações avançadas de busca e manipulação de texto. Com a ajuda de regex, você pode encontrar, extrair ou substituir partes específicas de uma string com base nesse padrão.
+
+A função `replace` em JavaScript é um método de strings que permite substituir partes de uma string por outra substring ou valor. Quando combinada com uma expressão regular, a função `replace` pode ser usada para localizar e substituir todas as ocorrências de um padrão específico em uma string.
+
+Em resumo, regex é um padrão de busca poderoso, enquanto a função `replace` é usada para substituir partes de uma string com base nesse padrão. Isso é útil para realizar transformações complexas em texto de maneira eficiente.
